@@ -1,9 +1,8 @@
 ## Olá! Eu sou a Izaquela. 👋
 
 
-🤖 Amante de Machine Learning e suas aplicações.  
 📊 Data Scientist.  
-👩‍💻 Estudando Desenvolvimento Back-End.  
+👩‍💻 Estudando Machine Learning e suas aplicações mais Desenvolvimento Back-End.  
 
 
 <img />  
