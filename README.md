@@ -2,7 +2,7 @@
 
 
 📊 Data Scientist.  
-👩‍💻 Estudando Machine Learning e suas aplicações mais Desenvolvimento Back-End.  
+👩‍💻 Estudando Machine Learning e suas aplicações.  
 
 
 <img />  
