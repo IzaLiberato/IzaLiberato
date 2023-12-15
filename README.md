@@ -1,8 +1,8 @@
-## Olá! Eu sou a Izaquela. 👋
+## Hello! I'm Izaquela. 👋
 
 
-📊 Data Scientist.  
-👩‍💻 Estudando Machine Learning e suas aplicações.  
+📊 Data Scientist.
+👩‍💻 Studying Machine Learning and its applications.  
 
 
 <img />  
