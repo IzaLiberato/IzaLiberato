@@ -1,8 +1,8 @@
 ## Hello! I'm Izaquela. 👋
 
 
-📊 Data Scientist.  
-👩‍💻 Studying Machine Learning and its applications.  
+📊 Software Developer
+👩‍💻 Researching Machine Learning and Applying  
 
 
 <img />  
