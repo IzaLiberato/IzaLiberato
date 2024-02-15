@@ -2,6 +2,8 @@
 
 
 📊 Software Developer
+
+
 👩‍💻 Researching Machine Learning and Applying  
 
 
